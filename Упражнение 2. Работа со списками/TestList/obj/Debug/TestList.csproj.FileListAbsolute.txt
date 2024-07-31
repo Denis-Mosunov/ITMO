@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\bin\Debug\TestList.exe.config
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\bin\Debug\TestList.exe
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\bin\Debug\TestList.pdb
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.exe
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 2. Работа со списками\TestList\obj\Debug\TestList.pdb

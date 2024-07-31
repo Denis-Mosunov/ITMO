@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\bin\Debug\WinQuestion.exe
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.Form1.resources
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.exe
+C:\Users\Denis\Desktop\Лаб_2\Упражнение 1. Обработка событий Click и MouseMove\WinQuestion\obj\Debug\WinQuestion.pdb

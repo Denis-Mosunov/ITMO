@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\Denis\Desktop\Введение в разработку фор\Упражнение 4. Создание MDI-приложения\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
