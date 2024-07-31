@@ -1,0 +1,49 @@
+C:\Users\Denis\Desktop\WDF\1\WpfHello\bin\Debug\WpfHello.exe.config
+C:\Users\Denis\Desktop\WDF\1\WpfHello\bin\Debug\WpfHello.exe
+C:\Users\Denis\Desktop\WDF\1\WpfHello\bin\Debug\WpfHello.pdb
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\MainWindow.g.cs
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\App.g.cs
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello_MarkupCompile.cache
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello_MarkupCompile.lref
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\MainWindow.baml
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.g.resources
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.Properties.Resources.resources
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.exe
+C:\Users\Denis\Desktop\WDF\1\WpfHello\obj\Debug\WpfHello.pdb
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.exe.config
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.exe
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.pdb
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.AssemblyReference.cache
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MainWindow.g.cs
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MyWindow.g.cs
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\App.g.cs
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello_MarkupCompile.cache
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello_MarkupCompile.lref
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MainWindow.baml
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MyWindow.baml
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.g.resources
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.Properties.Resources.resources
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.GenerateResource.cache
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.CoreCompileInputs.cache
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.exe
+F:\WDF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.pdb
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.exe.config
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.exe
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\bin\Debug\WpfHello.pdb
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MyWindow.g.cs
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\MyWindow.baml
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.g.resources
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.exe
+C:\Users\ASUS\Desktop\Новая папка\WPF\Практическое занятие 1. Создание приложений WPF\Упражнение 2. Работа с окнами\WpfHello\obj\Debug\WpfHello.pdb
