@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\Denis\source\repos\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\Denis\source\repos\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\Denis\source\repos\WinContainer\obj\Debug\WinContainer.pdb
