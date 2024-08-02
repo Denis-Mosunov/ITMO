@@ -1,0 +1,18 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\Пользователь\Documents\w\s6211173\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\ASUS\Desktop\Calc_Starter_2\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
